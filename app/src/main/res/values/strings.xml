@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Minecraft Backup</string>
+    <string name="title_activity_show_notification_detail">ShowNotificationDetailActivity</string>
+</resources>
